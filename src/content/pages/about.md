@@ -2,7 +2,7 @@
 title: About
 seo:
   title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
+  description: Learn more about Andrew and embark on a journey of inspiration and shared experiences.
   image:
     src: '/about.jpeg'
     alt: A person sitting at a desk in front of a computer
@@ -10,15 +10,17 @@ seo:
 
 ![Alt text for image](/about.jpeg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Andrew Herendeen - Business Consultant and Developer
 
-## Ethan Donovan - Web Developer based in Estonia
-
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+**Greetings!** I'm Andrew Herendeen, a passionate business consultant and developer. With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
 
 ## Skills and Expertise
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+I specialize in creating visually stunning and highly functional websites that not only meet the needs of my clients but also provide an exceptional user experience. My skill set includes:
+- **Web Development:** Proficient in HTML, CSS, JavaScript, and various frameworks
+- **Responsive Design:** Ensuring websites look great on all devices
+- **User Experience (UX):** Focusing on intuitive navigation and user-friendly interfaces
+- **Content Management Systems (CMS):** Experience with WordPress, Joomla, and custom CMS
 
 ## Innovation and Problem-Solving
 
@@ -26,15 +28,15 @@ I thrive on solving complex problems and transforming ideas into functional, ele
 
 ## Global Perspective, Local Impact
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+Living in St. George, UT, I draw inspiration from the stunning landscapes and vibrant community around me. My work reflects a global perspective while making a local impact, as I collaborate with businesses and individuals to enhance their online presence.
 
 ## Continuous Learning
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+I am a firm believer in lifelong learning. The tech industry is ever-evolving, and I stay updated with the latest trends, tools, and technologies to ensure that my skills remain sharp and relevant. This commitment to continuous improvement allows me to provide cutting-edge solutions to my clients.
 
 ## Collaboration and Communication
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+I value open communication and collaboration. I believe that the best results come from working closely with clients to understand their vision and goals. My approach is transparent, ensuring that you are involved in every step of the process, from initial concept to final launch.
 
 ## Get in Touch
 
